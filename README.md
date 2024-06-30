@@ -1,2 +1,0 @@
-# Killing_Time
-CapStone
