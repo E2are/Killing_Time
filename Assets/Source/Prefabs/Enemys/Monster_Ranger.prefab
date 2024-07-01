@@ -695,7 +695,7 @@ MonoBehaviour:
   ranger: 1
   targetisPlayer: 1
   P_alive: 1
-  Speed: 2
+  Speed: 4
   Hp: 5
   Score: 15
   Dmg: 1

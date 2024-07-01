@@ -420,7 +420,7 @@ MonoBehaviour:
   ranger: 0
   targetisPlayer: 0
   P_alive: 1
-  Speed: 1
+  Speed: 2
   Hp: 5
   Score: 30
   Dmg: 5
@@ -430,6 +430,7 @@ MonoBehaviour:
   Bullet: {fileID: 0}
   Bash: 0
   Dash_Effect: {fileID: 0}
+  shotpoint: {fileID: 0}
 --- !u!1 &5651899185621130444
 GameObject:
   m_ObjectHideFlags: 0
