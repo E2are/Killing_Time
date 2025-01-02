@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/QuitBreathing_Title.unity
+    path: Assets/01Scenes/QuitBreathing_Title.unity
     guid: b991b2e2a5052ef4d9724ae07a215b50
   - enabled: 1
-    path: Assets/Scenes/QuitBreathing_InGame.unity
+    path: Assets/01Scenes/QuitBreathing_InGame.unity
     guid: f18a9d4c4e5084048ba02ff6c9b1030c
   m_configObjects: {}
